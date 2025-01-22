@@ -1,0 +1,22 @@
+/* .container-cascata {
+ background-color: aquamarine;
+}
+
+.container-cascata {
+ background-color: rgb(214, 173, 230);
+} */
+
+/* Especificidade */
+
+.container-especificidade p {
+    background-color: darkmagenta;
+}
+
+p {
+    background-color: blueviolet;
+}
+
+
+#meu-paragrafo{
+    background-color: rgb(247, 231, 192);
+}
