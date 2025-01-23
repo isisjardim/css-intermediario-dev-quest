@@ -1,0 +1,71 @@
+ /* Text Align  */
+.alinhado-esquerda {
+text-align: left;
+
+}
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+.alinhado-justificado { 
+    text-align: justify;
+}
+
+ /* Text Transform */
+
+.maiusculo {
+    text-transform: uppercase;
+}
+.minuscula {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+/* Text Decoration */
+
+.sublinhado {
+    text-decoration: underline;
+}
+.linha-sobreposta {
+    text-decoration: line-through;
+}
+.sem-text-decoration {
+    text-decoration: none;
+}
+/* Letter Spacing */
+
+.altura-entre-linhas {
+    line-height: 40px;
+}
+.sombra-de-texto {
+    text-shadow: 2px 2px 1px #a7ecbf;
+}
+
+/* Geral */
+
+.fundo-alinhamento {
+    padding: 20px;
+    background-color: #d7b2dd;
+}
+.fundo-transform {
+    padding: 20px;
+    background-color: #b0f4fe;
+}
+.fundo-decoration {
+    padding: 20px;
+    background-color: #91e7b8;
+}
+.fundo {
+    padding: 20px;
+    background-color: #ebb1d6;
+}
+html {
+    font-size: 24px;
+}
