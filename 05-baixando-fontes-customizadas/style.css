@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'MilkyVintage' ;
+    src: 
+    url(./fonts/MilkyVintage-Regular.ttf);
+}
+
+h1 {
+    font-family: 'MilkyVintage';
+    font-size: 50px;
+    font-weight: 200;
+    color: rgb(85, 22, 74);
+}
