@@ -1,0 +1,17 @@
+a {
+    cursor:progress;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:visited {
+    color:blueviolet
+}
+
+a:active {
+    color:rgb(233, 138, 188)
+}
+a:hover {
+    background-color:aqua 
+    color:white
+}
